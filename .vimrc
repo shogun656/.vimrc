@@ -1,5 +1,6 @@
 syntax on
 set mouse=a "enable mouse
+set clipboard=unnamedplus
 
 "--TABS--
 set tabstop=4 "number of visual spaces per tab
