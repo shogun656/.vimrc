@@ -18,4 +18,4 @@ set incsearch "search as characters are entered
 set hlsearch "highlight matches
 
 "--Toggles--
-set pasteToggle=<F3>
+set pastetoggle=<F3>
