@@ -3,6 +3,8 @@ set mouse=a "enable mouse
 set clipboard=unnamedplus
 
 "--TABS--
+set smartindent   "smart autoindenting when starting a new line
+set shiftwidth=4  "number of spaces per auto indentation
 set tabstop=4 "number of visual spaces per tab
 set softtabstop=4 "number of spaces in tab when editing
 set expandtab "tabs are spaces now
